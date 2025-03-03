@@ -1,0 +1,85 @@
+@charset "utf-8";
+.img-fondo {
+    background-size: cover;
+    background-image: url(Imagenes/Logo.png);
+}
+.img-mia {
+    background-color: #EFE8C9;
+    color: #2A0D0D;
+}
+.titulo {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    color: #46090A;
+    text-align: right;
+}
+.titulo1 {
+    text-align: left;
+    font-weight: normal;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #350F10;
+}
+
+.texto {
+    color: #320E0F;
+    text-align: right;
+    font-weight: normal;
+    text-indent: 0;
+}
+
+.negrilla {
+    color: #390C0D;
+}
+
+
+.mt-8 {
+}
+.bg-ani {
+    background-image: url(Imagenes/Fondo.png);
+    background-position: 0% 0%;
+    background-size: cover;
+}
+.texto1 {
+    text-align: left;
+}
+.bg-fondo  {
+    background-color: rgba(239,232,201,1.00);
+}
+
+.texto {
+    text-align: center;
+    background-color: #EFE8C9;
+}
+.img1 {
+    background-image: url(Imagenes/Parte%201.png);
+    background-size: cover;
+}
+.titulo2 {
+    text-align: center;
+    background-color: #EFE8C9;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.img-e {
+    background-image: url(Imagenes/Jarron%201.png);
+    background-size: cover;
+}
+.texto-card {
+    background-color: rgba(0,0,0,0.50);
+    color: rgba(255,255,255,1.00);
+}
+.img-r {
+    background-image: url(Imagenes/Jarron%202.png);
+}
+.img-a {
+    background-image: url(Imagenes/Jarron%203.png);
+}
+.bg-car {
+    background-color: #C59E7C;
+}
+.bg-jaguar {
+    background-image: url(Imagenes/15264_bienal-iberoamericana-diseno-premio-artesanias-colombia-2014.png);
+    background-color: #EFE8C9;
+    background-repeat: no-repeat;
+    background-position: 101% 38%;
+}
